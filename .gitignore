@@ -1,3 +1,6 @@
+# Streams
+*.sab
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
