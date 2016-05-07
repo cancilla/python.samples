@@ -14,30 +14,17 @@ These samples demonstrate how to use the following python libraries when buildin
 
 ## Installation
 
-### Install NumPy
-
     pip3 install numpy
-
-Additional installation instructions can be found here: [http://www.numpy.org/]
-
-### Install SciPy
-    
     pip3 install scipy
-
-Additional installation instructions can be found here: [http://www.scipy.org/] 
-
-
-### Install scikit-learn
-
     pip3 install scikit-learn
-
-Additional installation instructions can be found here: [http://scikit-learn.org/stable/]
-
-### Install pandas
-
     pip3 install pandas
 
-Additional installation instructions can be found here: [http://pandas.pydata.org/]
+Additional installation instructions can be found at the following links: 
+
+[http://www.numpy.org/]
+[http://www.scipy.org/] 
+[http://scikit-learn.org/stable/]
+[http://pandas.pydata.org/]
 
 
 ## Samples
