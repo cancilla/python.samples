@@ -21,10 +21,10 @@ These samples demonstrate how to use the following python libraries when buildin
 
 Additional installation instructions can be found at the following links: 
 
-[http://www.numpy.org/]
-[http://www.scipy.org/] 
-[http://scikit-learn.org/stable/]
-[http://pandas.pydata.org/]
+ * [http://www.numpy.org/]
+ * [http://www.scipy.org/] 
+ * [http://scikit-learn.org/stable/]
+ * [http://pandas.pydata.org/]
 
 
 ## Samples
