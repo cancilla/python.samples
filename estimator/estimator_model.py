@@ -1,12 +1,12 @@
 from sklearn.neighbors import KNeighborsClassifier
 
-class KNNClassifier:
-    def __init__ (self, training_size):
+class Estimator:
+    def __init__ (self, training_size, estimator):
         self.training_size = training_size
         self.X_train = []
         self.y_train = []
         self.isTraining = True
-        self.estimator = KNeighborsClassifier()
+        self.estimator = estimator
     def __call__ (self, tuple):
         if(tuple[0] == 't'): ## training tuple
             print(tuple)
