@@ -21,25 +21,25 @@ These samples demonstrate how to use the following python libraries when buildin
 
 Additional installation instructions can be found at the following links: 
 
- * [http://www.numpy.org/]
- * [http://www.scipy.org/] 
- * [http://scikit-learn.org/stable/]
- * [http://pandas.pydata.org/]
+ * http://www.numpy.org/
+ * http://www.scipy.org/
+ * http://scikit-learn.org/stable/
+ * http://pandas.pydata.org/
 
 
 ## Samples
 
 ### Timeseries
 
- * [convolve.py] - Demonstrates how to convolve data from a stream with a Hann window
- * [fftconvolve.py] - Demonstrates how to perform FFT convolution on data data from a stream with a Hann window
- * [correlate.py] - Demonstrates how to correlate data from a stream with a Hann window 
- * [fft.py] - Demonstrates how to perform FFT analysis on data from a stream
- * [ifft.py] - Demonstrates how to perform Inverse FFT analysis on data from a stream
- * [lowpassfilter.py] - Demonstrates how to filter incoming data with a low-pass Butterworth filter
+ * [convolve.py](convolve.py) - Demonstrates how to convolve data from a stream with a Hann window
+ * [fftconvolve.py](fftconvolve.py) - Demonstrates how to perform FFT convolution on data data from a stream with a Hann window
+ * [correlate.py](correlate.py) - Demonstrates how to correlate data from a stream with a Hann window 
+ * [fft.py](fft.py) - Demonstrates how to perform FFT analysis on data from a stream
+ * [ifft.py](ifft.py) - Demonstrates how to perform Inverse FFT analysis on data from a stream
+ * [lowpassfilter.py](lowpassfilter.py) - Demonstrates how to filter incoming data with a low-pass Butterworth filter
 
 ### Supervised learning models
- * [knclassifier_sample.py] - Demonstrates how to train a KNeighborsClassifier and score data in real-time
+ * [knclassifier_sample.py](knclassifier_sample.py) - Demonstrates how to train a KNeighborsClassifier and score data in real-time
 
 
 ### Unsupervised learning models
